@@ -1,4 +1,6 @@
 # hello-world
 Practicing stuff
 
-This is the first damn thing I've done on github. Just trying to figure out how to contribute code to a larger project.
+Just trying to work out how to contribute code to a much larger project.
+
+Time to delete some crap and change some crap and add some new crap
